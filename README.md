@@ -1,6 +1,6 @@
 # Paytm MCP Server
 
-Paytm MCP Server enables AI agents and developers to securely access Paytm's Payments and Business Payments APIs via the Model Context Protocol (MCP). It allows smart, contextual automation across all payment workflows
+Paytm  MCP Server enables AI agents and developers to securely access Paytm's Payments and Business Payments APIs via the Model Context Protocol (MCP). It allows smart, contextual automation across all payment workflows
 
 ## Features
 
