@@ -1,6 +1,6 @@
 # Paytm MCP Server
 
-Paytm  MCP Server enables AI agents and developers to securely access Paytm's Payments and Business Payments APIs via the Model Context Protocol (MCP). It allows smart, contextual automation across all payment workflows
+Paytm MCP Server enables AI agents and developers to securely access Paytm's Payments and Business Payments APIs via the Model Context Protocol (MCP). It allows smart, contextual automation across all payment workflows
 
 ## Features
 
@@ -19,6 +19,10 @@ Paytm  MCP Server enables AI agents and developers to securely access Paytm's Pa
 | `create_link`       | Create a new payment link            | [Create Link API](https://www.paytmpayments.com/docs/api/create-link-api?ref=paymentLinks)                  |
 | `fetch_link`        | Fetch details of a payment link      | [Fetch Link API](https://www.paytmpayments.com/docs/api/fetch-link-api?ref=paymentLinks)                    |
 | `fetch_transaction` | Fetch transaction details for a link | [Fetch Transaction API](https://www.paytmpayments.com/docs/api/fetch-transaction-link-api?ref=paymentLinks) |
+| `fetch_order_list`  | Fetch a list of orders within a date range of 30 days | [Order List API](https://www.paytmpayments.com/docs/api/order-list-api) |
+| `initiate_refund`   | Initiate a refund for a specific transaction | [Initiate Refund API](https://www.paytmpayments.com/docs/api/initiate-refund-api) |
+| `check_refund_status` | Check status of a previously initiated refund | [Check refund status API](https://www.paytmpayments.com/docs/api/check-refund-status-api) |
+| `fetch_refund_list` | Fetch a list of refunds within a date range of 30 days | [Fetch Refund List API](https://www.paytmpayments.com/docs/api/fetch-refund-list-api) |
 
 ## Prerequisites
 

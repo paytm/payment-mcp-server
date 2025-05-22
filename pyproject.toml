@@ -12,6 +12,9 @@ dependencies = [
     "paytmchecksum"
 ]
 
+[project.scripts]
+payment-mcp = "paytm_mcp:main"
+
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["config*", "services*","utils*"]
+include = ["config*", "services*", "utils*", "paytm_mcp.py"]
