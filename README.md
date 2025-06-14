@@ -31,7 +31,7 @@ Paytm MCP Server enables AI agents and developers to securely access Paytm's Pay
 - [uv](https://github.com/astral-sh/uv) (a fast Python package installer and runner)
 - [Claude Desktop](https://www.anthropic.com/claude) (for running and managing the server)
 
-## Installation
+## Installations
 
 ### Option 1: Automated Setup (Recommended)
 
